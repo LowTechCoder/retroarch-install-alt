@@ -1,4 +1,9 @@
 Alternative ways to install RetroArch that I've tried, but don't keep up with.
+
+The best way to install RetroArch, I think is PiKISS.  More details here:
+
+https://github.com/LowTechCoder/rpi4-retroarch-guide/blob/main/README.md
+
 ### Method 1: Snap
 The first way I ever installed RetroArch was to install a Snap.  This is by far the easiest way, but I believe it updated it's self one day without asking me and broke it's self.  So, if you do use this method and it works, you'll need a way to disable auto updates, which I will provide below.
 
